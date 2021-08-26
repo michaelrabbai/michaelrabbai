@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Michael! A soon to be Computer Science graduate (December 2021) that's passionate about designing and developing front-end applications (web and mobile).
+### I'm Michael! A soon to be Computer Science graduate (December 2021) that's passionate about designing and developing front-end applications (web and mobile).
 
 Take a look at my personal website... it's the only repository you can actually see afterall. Stay tuned though, I have a React Native Android and iOS mobile application in the works and other web application projects/ideas that you'll be able to see soon 👀
 
