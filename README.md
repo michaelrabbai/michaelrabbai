@@ -10,6 +10,8 @@ Ask me about my app and project ideas!
 
 Fun fact: my friends gave me the nickname "an abundance of serotonin" - I'm a happy guy!
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrabbai&theme=tokyonight&layout=compact" />
+
 <!--
 **michaelrabbai/michaelrabbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
