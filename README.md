@@ -2,7 +2,7 @@
 
 #### I'm Michael! A soon-to-be Computer Science graduate (December 2021) that's passionate about designing and developing front-end applications (web and mobile).
 
-Take a look at my [personal website](https://michaelrabbai.com) and it's [repository](https://github.com/michaelrabbai/michaelrabbai.github.io)... it's the only repository you can actually see after all. Stay tuned though, I have a React Native Android and iOS mobile application in the works and other web application projects/ideas that you'll be able to see soon 👀
+Take a look at my [personal website](https://michaelrabbai.com) and it's [repository](https://github.com/michaelrabbai/michaelrabbai.github.io)... it's the only repository you can actually see after all. Stay tuned though, I have a React Native Android and iOS mobile application in the works and other web application projects/ideas that you'll soon be able to see 👀
 
 I'm currently looking for full-time employment starting January 2022.
 
