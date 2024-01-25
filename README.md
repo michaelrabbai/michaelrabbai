@@ -10,6 +10,8 @@
 
 ⚡ Fun fact: my friends gave me the nickname "an abundance of serotonin" - I'm a happy guy!
 
+If you're into seeing your work as stats like I am, here's a snapshot of some of mine:
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrabbai&theme=tokyonight&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelrabbai&hide=stars,contribs,issues&count_private=true&show_icons=true&theme=tokyonight" />
 
